@@ -3,10 +3,10 @@ authors = ["The glfw-rs developers."]
 description = "GLFW3 bindings and idiomatic wrapper for Rust."
 keywords = ["windowing", "opengl", "vulkan"]
 license = "Apache-2.0"
-name = "glfw"
+name = "glfw-passthrough-ng"
 readme = "README.md"
-repository = "https://github.com/bjz/glfw-rs"
-version = "0.59.0"
+repository = "https://github.com/pgninetynine/glfw-rs"
+version = "0.60.3"
 edition = "2021"
 rust-version = "1.56"
 
